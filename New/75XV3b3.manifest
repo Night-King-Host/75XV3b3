@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# 75XV3b3 FW V.1.11 May02nd,2021 JB
+# Night King PS4 FW 7.5X V1.12 B2 --> 10/06/2021
 
 1.jpg
 1gb.js
@@ -29,6 +29,7 @@ mira755.js
 mira75x.html
 module-dumper.js
 netcat.js
+orbistoolkit.js
 payload.html
 payload.js
 ps4debug755.js
